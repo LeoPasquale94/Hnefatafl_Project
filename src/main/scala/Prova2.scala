@@ -1,0 +1,3 @@
+class Prova2 {
+
+}
